@@ -1,0 +1,17 @@
+.userList{
+    border: 2px solid black;
+    padding: 4%;
+    color: white;
+    background: linear-gradient(rgb(133, 130, 151), rgb(18, 85, 139));
+}
+.userDetail{
+    padding: 2%;;
+}
+.user_img{
+    height: 20vw;
+    margin: 0 20px;
+    box-shadow: 0 4px 60px rgba(0, 0, 0.5);
+}
+button {
+    border:none;
+}
